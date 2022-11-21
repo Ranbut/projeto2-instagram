@@ -4,7 +4,7 @@
 
 # Descrição
 
-Seu segundo projeto será aplicar o layout responsivo da versão web do Instagram, utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o layout fornecido!
+Seu segundo projeto será aplicar o layout responsivo da versão web do Instagram, utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o [layout fornecido](https://github.com/Ranbut/projeto2-instagram/blob/main/layout/Instagram%20Layout.pdf)!
 
 # Requisitos
 
